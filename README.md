@@ -21,6 +21,8 @@ On this GitHub space you will find some information about me and some powershell
 ![](https://img.shields.io/badge/Networks-Cisco-informational?style=flat&logo=cisco&logoColor=white&color=049fd9)
 ![](https://img.shields.io/badge/Networks-Mikrotik-informational?style=flat&logo=Mikrotik&logoColor=white&color=ffffff)
 ![](https://img.shields.io/badge/Backup-Veeam-informational?style=flat&logo=Veeam&logoColor=white&color=00b336)
+![](https://img.shields.io/badge/Code-PowerShell-informational?style=flat&logo=Windows&logoColor=white&color=012456)
+
 
 <!-- links to social media icons -->
 
