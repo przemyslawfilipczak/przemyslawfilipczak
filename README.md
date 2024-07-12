@@ -5,7 +5,6 @@ On this GitHub space you will find some information about me and some powershell
 ## Find me in the Internet
 
 - my <a href="https://www.linkedin.com/in/przemys%C5%82aw-filipczak-12048412b/">LinkedIn</a> profile [![LinkedIn][3.2]][3]
-- my <a href="https://twitter.com/p_filipczak">Twitter</a> [![Twitter][1.2]][1]
 - my <a href="https://filipczak.tech/">WWW</a>
 - you can always reach out to me using my mail <b>przemyslaw[at]filipczak.tech</b>
 
